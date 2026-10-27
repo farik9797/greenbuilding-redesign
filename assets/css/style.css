@@ -70,13 +70,9 @@ svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke
 .header.is-scrolled{background:rgba(11,29,27,.88);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);box-shadow:0 6px 24px rgba(0,0,0,.18)}
 .header__row{display:flex;align-items:center;gap:24px;height:84px;transition:height .3s}
 .header.is-scrolled .header__row{height:70px}
-.logo{display:flex;align-items:center;gap:10px;color:#fff;flex:none}
-.logo__mark{display:grid;place-items:center;width:42px;height:42px;border-radius:50%;background:radial-gradient(circle at 30% 30%,#9cf07c,var(--accent-2));color:var(--dark)}
-.logo__mark svg{width:24px;height:24px;stroke-width:2}
-.logo__text{display:flex;flex-direction:column;line-height:1.1}
-.logo__text b{font-size:17px;letter-spacing:.02em;font-weight:800}
-.logo__text b span{color:var(--accent)}
-.logo__text small{font-size:10.5px;color:var(--muted-light);margin-top:3px}
+.logo{display:flex;align-items:center;flex:none}
+.logo img{height:46px;width:auto}
+.footer .logo img{height:50px}
 .nav{display:flex;gap:24px;margin-left:auto}
 .nav a{color:#e6efec;font-size:14px;font-weight:600;position:relative;padding:6px 0;white-space:nowrap}
 .nav a::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:var(--accent);transform:scaleX(0);transition:transform .25s;transform-origin:left}
@@ -384,6 +380,8 @@ svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke
   .container{padding:0 16px}
   .section{padding:72px 0}
   .header .btn--sm{display:none}
+  .logo img{height:34px}
+  .footer .logo img{height:38px}
   .lang button{padding:5px 8px}
   .hero{min-height:0}
   .hero__inner{padding-top:120px}
@@ -427,14 +425,10 @@ svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke
   .lightbox__nav{top:auto;bottom:14px;transform:none}
 }
 @media (max-width:420px){
-  .logo__text small{display:none}
   .hero__features{grid-template-columns:1fr}
   .header__row{gap:12px}
   .header__right{gap:10px}
-  .logo{gap:8px}
-  .logo__mark{width:36px;height:36px}
-  .logo__mark svg{width:20px;height:20px}
-  .logo__text b{font-size:15px}
+  .logo img{height:30px}
   .lang button{padding:4px 6px;font-size:11px}
   .burger{width:40px;height:40px}
   .stats li{padding:0 10px}
