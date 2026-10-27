@@ -51,11 +51,6 @@
       'srv.4.d': 'Har bir mamlakatning o‘z talablari bor — xorijiy loyihalarni moslashtiramiz. Foydalanishga topshirilgandan so‘ng investor servis, agronomik yordam va qoplanish muddatini qisqartirish uchun biznes maslahatlar oladi.',
       'gen.eyebrow': 'Texnologiyalar', 'gen.title': 'Issiqxona avlodlari', 'gen.lead': 'Plyonkali parniklardan 5-avlod innovatsion tizimlarigacha — har qanday turdagi issiqxonalarni quramiz.',
       'gen.aside': 'Zamonaviy issiqxona — bu nafaqat konstruksiya, balki natijangiz uchun ishlaydigan aqlli tizimlar.',
-      'gen.1.t': 'Birinchi avlod', 'gen.1.p': 'Bahor va yozda erta hosil uchun plyonkali issiqxonalar — kichik xo‘jaliklar uchun oddiy start.',
-      'gen.2.t': 'Ikkinchi avlod', 'gen.2.p': 'Suv bilan isitiladigan angar turidagi oynali issiqxonalar — ishonchli, lekin ko‘p energiya sarflaydi.',
-      'gen.3.t': 'Uchinchi avlod', 'gen.3.p': 'Suv bilan isitiladigan va asosiy avtomatikaga ega katta maydonli blokli issiqxonalar.',
-      'gen.4.t': 'To‘rtinchi avlod', 'gen.4.p': 'Ikki qavatli oynali va kontrollerlar orqali mikroiqlim boshqariladigan «Venlo» issiqxonalari.',
-      'gen.5.t': 'Beshinchi avlod — UltraClima', 'gen.5.p': 'Iqlimni to‘liq nazorat qiluvchi yarim yopiq issiqxonalar: Kubo UltraClima, Van der Hoeven ModulAir, Certhon SuprimAir.',
       'gen.badge': 'Tavsiya etamiz',
       'gen.c1': 'Eng yuqori hosildorlik', 'gen.c2': '−25% energiya sarfi', 'gen.c3': 'Qoplanish 2 yil tezroq', 'gen.c4': 'Yuqori CO₂ darajasi', 'gen.c5': 'Harorat va namlikni aniq nazorat qilish', 'gen.c6': 'Zararkunandalar ancha kam',
       'cta.eyebrow': 'Loyihani muhokama qilishga tayyormisiz?', 'cta.title': 'Agrobiznesingiz eng yaxshi yechimlarga loyiq',
@@ -63,7 +58,8 @@
       'cta.p1': 'Mutaxassisning bepul konsultatsiyasi', 'cta.p2': 'Loyiha narxini hisoblash', 'cta.p3': 'Javob muddati — 1 kungacha',
       'addr': 'Toshkent, Namuna ko‘chasi, 5', 'footer.rights': 'Barcha huquqlar himoyalangan.',
       'modal.eyebrow': 'Ariza', 'modal.title': 'Qo‘ng‘iroq buyurtma qilish', 'modal.lead': 'Mutaxassis 1 ish kuni ichida qo‘ng‘iroq qiladi va bepul maslahat beradi.',
-      'msg.ok': 'Rahmat! Ariza yuborildi — tez orada siz bilan bog‘lanamiz.', 'msg.err': 'Yuborib bo‘lmadi. Iltimos, qo‘ng‘iroq qiling: +998 95 00 12345', 'msg.invalid': 'Ism va telefon raqamini kiriting', 'msg.demo': 'Demo-versiya: forma saytga ko‘chirilgandan keyin arizalarni Telegram’ga yuboradi.'
+      'msg.ok': 'Rahmat! Ariza yuborildi — tez orada siz bilan bog‘lanamiz.', 'msg.err': 'Yuborib bo‘lmadi. Iltimos, qo‘ng‘iroq qiling: +998 95 00 12345', 'msg.invalid': 'Ism va telefon raqamini kiriting', 'msg.demo': 'Demo-versiya: forma saytga ko‘chirilgandan keyin arizalarni Telegram’ga yuboradi.',
+      "genx.k.cover": "Qoplama", "genx.k.heat": "Isitish", "genx.k.climate": "Iqlim boshqaruvi", "genx.k.season": "Mavsum", "genx.m.yield": "Hosildorlik", "genx.m.climate": "Iqlim barqarorligi", "genx.m.auto": "Avtomatlashtirish", "genx.m.note": "* avlodlar o‘rtasidagi nisbiy baho", "genx.render": "Vizualizatsiya", "genx.lg.frame": "Karkas", "genx.lg.crop": "Ekinlar", "genx.lg.heat": "Isitish", "genx.lg.light": "Yoritish", "genx.lg.air": "Havo", "genx.partners": "Texnologiyalar asosida quramiz:", "genx.cta": "5-avlod issiqxonasini hisoblash", "genx.chips": "5-avlod afzalliklari", "genx.1.tab": "Plyonkali", "genx.1.era": "Boshlang‘ich daraja", "genx.1.t": "Birinchi avlod — plyonkali issiqxonalar", "genx.1.p": "Bahor va yozda erta hosil olish uchun polietilen plyonkali tunnel issiqxonalar. Kichik xo‘jaliklar va ko‘chat yetishtirish uchun tez va arzon start.", "genx.1.cover": "Polietilen plyonka", "genx.1.heat": "Yo‘q yoki vaqtinchalik", "genx.1.climate": "Qo‘lda shamollatish", "genx.1.season": "Bahor — kuz", "genx.2.tab": "Angar", "genx.2.era": "Klassik texnologiya", "genx.2.t": "Ikkinchi avlod — angar issiqxonalar", "genx.2.p": "Suv bilan isitiladigan angar turidagi oynali issiqxonalar. Ishonchli konstruksiya, lekin energiya sarfi yuqori, hosildorlik past va avtomatika yo‘q.", "genx.2.cover": "Oyna, bir qavatli", "genx.2.heat": "Suvli", "genx.2.climate": "Qo‘lda boshqaruv", "genx.2.season": "Yil bo‘yi, yuqori xarajat", "genx.3.tab": "Blokli", "genx.3.era": "Sanoat miqyosi", "genx.3.t": "Uchinchi avlod — blokli issiqxonalar", "genx.3.p": "Suv bilan isitiladigan katta maydonli ko‘p oraliqli blokli issiqxonalar. Miqyos oshadi, lekin butun maydonda maqbul mikroiqlimni saqlash qiyin.", "genx.3.cover": "Oyna yoki polikarbonat", "genx.3.heat": "Quvurli suvli", "genx.3.climate": "Asosiy avtomatika", "genx.3.season": "Yil bo‘yi", "genx.4.tab": "Venlo", "genx.4.era": "Zamonaviy standart", "genx.4.t": "To‘rtinchi avlod — «Venlo» issiqxonalari", "genx.4.p": "Ikki qavatli oynali, qo‘shimcha yoritishli va kontrollerlar bilan boshqariladigan baland «Venlo» issiqxonalari. Hosildorlik yuqori, lekin bahorda mikroiqlimni barqaror ushlab turish qiyin.", "genx.4.cover": "Oyna, ikki qavatli", "genx.4.heat": "Quvurli + qo‘shimcha yoritish", "genx.4.climate": "Iqlim kompyuteri", "genx.4.season": "Yil bo‘yi", "genx.5.tab": "UltraClima", "genx.5.era": "Kelajak texnologiyasi", "genx.5.t": "Beshinchi avlod — yarim yopiq issiqxonalar", "genx.5.p": "Havo maxsus qurilmalarda tayyorlanadi va novlar ostidagi yenglar orqali beriladi, issiqxonada ortiqcha bosim saqlanadi. Tashqi ob-havodan qat’i nazar maqbul mikroiqlim.", "genx.5.cover": "«Venlo» oynasi + iqlim ekranlari", "genx.5.heat": "Yenglar orqali havo + quvurli", "genx.5.climate": "To‘liq avtomatlashtirish, ortiqcha bosim", "genx.5.season": "Yil bo‘yi, maksimal hosil"
     },
     en: {
       'logo.tag': 'Greenhouses. Technology. Harvest.',
@@ -109,11 +105,6 @@
       'srv.4.d': 'Every country has its own requirements — we adapt foreign projects. After commissioning the investor gets service, agronomy support and business consulting to shorten the payback period.',
       'gen.eyebrow': 'Technology', 'gen.title': 'Greenhouse generations', 'gen.lead': 'From film tunnels to innovative 5th generation systems — we build greenhouses of every type.',
       'gen.aside': 'A modern greenhouse is more than a structure — it is a set of smart systems working for your result.',
-      'gen.1.t': 'First generation', 'gen.1.p': 'Film greenhouses for an early spring and summer harvest — a simple start for small farms.',
-      'gen.2.t': 'Second generation', 'gen.2.p': 'Hangar-type glass greenhouses with water heating — reliable but energy-hungry.',
-      'gen.3.t': 'Third generation', 'gen.3.p': 'Large block greenhouses with water heating and basic automation.',
-      'gen.4.t': 'Fourth generation', 'gen.4.p': 'Venlo greenhouses with double glazing and controller-managed microclimate.',
-      'gen.5.t': 'Fifth generation — UltraClima', 'gen.5.p': 'Semi-closed greenhouses with full climate control: Kubo UltraClima, Van der Hoeven ModulAir, Certhon SuprimAir.',
       'gen.badge': 'Recommended',
       'gen.c1': 'Highest yields', 'gen.c2': '−25% energy use', 'gen.c3': 'Payback 2 years faster', 'gen.c4': 'High CO₂ levels', 'gen.c5': 'Precise temperature & humidity control', 'gen.c6': 'Far fewer pests',
       'cta.eyebrow': 'Ready to discuss your project?', 'cta.title': 'Your agribusiness deserves the best solutions',
@@ -121,7 +112,8 @@
       'cta.p1': 'Free specialist consultation', 'cta.p2': 'Project cost estimate', 'cta.p3': 'Reply within 1 day',
       'addr': 'Tashkent, Namuna str., 5', 'footer.rights': 'All rights reserved.',
       'modal.eyebrow': 'Request', 'modal.title': 'Request a call', 'modal.lead': 'A specialist will call you back within 1 business day for a free consultation.',
-      'msg.ok': 'Thank you! Your request has been sent — we will contact you shortly.', 'msg.err': 'Could not send. Please call us: +998 95 00 12345', 'msg.invalid': 'Please enter your name and phone number', 'msg.demo': 'Demo version: the form will send requests to Telegram once moved to the live site.'
+      'msg.ok': 'Thank you! Your request has been sent — we will contact you shortly.', 'msg.err': 'Could not send. Please call us: +998 95 00 12345', 'msg.invalid': 'Please enter your name and phone number', 'msg.demo': 'Demo version: the form will send requests to Telegram once moved to the live site.',
+      "genx.k.cover": "Covering", "genx.k.heat": "Heating", "genx.k.climate": "Climate control", "genx.k.season": "Season", "genx.m.yield": "Yield", "genx.m.climate": "Climate stability", "genx.m.auto": "Automation", "genx.m.note": "* relative rating across generations", "genx.render": "Visualisation", "genx.lg.frame": "Frame", "genx.lg.crop": "Crops", "genx.lg.heat": "Heating", "genx.lg.light": "Lighting", "genx.lg.air": "Air", "genx.partners": "We build with:", "genx.cta": "Estimate a 5th gen greenhouse", "genx.chips": "5th generation advantages", "genx.1.tab": "Film", "genx.1.era": "Entry level", "genx.1.t": "First generation — film greenhouses", "genx.1.p": "Polyethylene film tunnels for an early spring and summer harvest. A fast, low-cost start for small farms and seedling production.", "genx.1.cover": "Polyethylene film", "genx.1.heat": "None or temporary", "genx.1.climate": "Manual ventilation", "genx.1.season": "Spring — autumn", "genx.2.tab": "Hangar", "genx.2.era": "Classic technology", "genx.2.t": "Second generation — hangar greenhouses", "genx.2.p": "Hangar-type glass greenhouses with water heating. A reliable structure, but high energy costs, modest yields and no automation.", "genx.2.cover": "Single glass", "genx.2.heat": "Water heating", "genx.2.climate": "Manual control", "genx.2.season": "Year-round, high costs", "genx.3.tab": "Block", "genx.3.era": "Industrial scale", "genx.3.t": "Third generation — block greenhouses", "genx.3.p": "Large multi-span block greenhouses with water heating. Scale grows, but keeping an optimal microclimate across the whole area is difficult.", "genx.3.cover": "Glass or polycarbonate", "genx.3.heat": "Pipe water heating", "genx.3.climate": "Basic automation", "genx.3.season": "Year-round", "genx.4.tab": "Venlo", "genx.4.era": "Modern standard", "genx.4.t": "Fourth generation — Venlo greenhouses", "genx.4.p": "Tall Venlo greenhouses with double glazing, supplemental lighting and controller-managed climate. High yields, but the microclimate is hard to keep stable in spring.", "genx.4.cover": "Double glazing", "genx.4.heat": "Pipe heating + lighting", "genx.4.climate": "Climate computer", "genx.4.season": "Year-round", "genx.5.tab": "UltraClima", "genx.5.era": "Future technology", "genx.5.t": "Fifth generation — semi-closed greenhouses", "genx.5.p": "Air is conditioned in treatment units and delivered through tubes under the gutters, keeping the greenhouse at overpressure. An optimal microclimate whatever the weather outside.", "genx.5.cover": "Venlo glass + climate screens", "genx.5.heat": "Air via tubes + pipe heating", "genx.5.climate": "Full automation, overpressure", "genx.5.season": "Year-round, maximum yield"
     },
     ru: {
       'msg.ok': 'Спасибо! Заявка отправлена — скоро свяжемся с вами.', 'msg.err': 'Не удалось отправить. Позвоните нам: +998 95 00 12345', 'msg.invalid': 'Укажите имя и телефон', 'msg.demo': 'Демо-версия: после переноса на сайт форма будет отправлять заявки в Telegram.'
@@ -278,6 +270,64 @@
       i.addEventListener('input', function () { i.parentNode.classList.remove('is-invalid'); });
     });
   });
+
+  /* ---------- greenhouse generations timeline ---------- */
+  var genx = $('[data-genx]');
+  if (genx) {
+    var gTabs = $$('.genx__tab', genx), gFigs = $$('.genx__fig', genx), gPanels = $$('.genx__panel', genx);
+    var gFill = $('.genx__fill', genx), gNum = $('.js-gen-num', genx), gPhoto = $('.genx__photo img', genx);
+    var gCur = 1, gTimer = null, gTouched = false;
+    var setGen = function (n, focus) {
+      gCur = n;
+      gTabs.forEach(function (t) {
+        var k = +t.getAttribute('data-gen'), on = k === n;
+        t.setAttribute('aria-selected', String(on));
+        t.tabIndex = on ? 0 : -1;
+        t.classList.toggle('is-done', k < n);
+        if (on && focus) t.focus();
+      });
+      gPanels.forEach(function (p) { p.hidden = +p.getAttribute('data-gen') !== n; });
+      gFigs.forEach(function (f) {
+        f.classList.remove('is-active');
+        f.setAttribute('aria-hidden', String(+f.getAttribute('data-gen') !== n));
+      });
+      var fig = gFigs[n - 1];
+      void fig.offsetWidth; // restart the drawing animation
+      fig.classList.add('is-active');
+      gFill.style.width = ((n - 1) / 4 * 100) + '%';
+      gNum.textContent = '0' + n;
+      gPhoto.style.opacity = 0;
+      setTimeout(function () { gPhoto.src = 'assets/img/gen/gen-' + n + '.webp'; gPhoto.style.opacity = 1; }, 200);
+    };
+    var stopAuto = function () { gTouched = true; if (gTimer) { clearInterval(gTimer); gTimer = null; } };
+    gTabs.forEach(function (t) {
+      t.addEventListener('click', function () { stopAuto(); setGen(+t.getAttribute('data-gen')); });
+    });
+    $('.genx__tabs', genx).addEventListener('keydown', function (e) {
+      var d = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0;
+      if (!d) return;
+      e.preventDefault(); stopAuto();
+      setGen(((gCur - 1 + d + 5) % 5) + 1, true);
+    });
+    $('.genx__photo', genx).addEventListener('click', function () { stopAuto(); });
+    setGen(1);
+
+    // walk through 01 → 05 once when the block first comes into view, then stay on the 5th
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (!reduce && 'IntersectionObserver' in window) {
+      var gObs = new IntersectionObserver(function (entries) {
+        if (!entries[0].isIntersecting) return;
+        gObs.disconnect();
+        if (gTouched) return;
+        setGen(1);
+        gTimer = setInterval(function () {
+          if (gCur >= 5) { clearInterval(gTimer); gTimer = null; return; }
+          setGen(gCur + 1);
+        }, 3200);
+      }, { threshold: 0.45 });
+      gObs.observe($('.genx__stage', genx));
+    }
+  }
 
   /* ---------- gallery lightbox ---------- */
   var GALLERY = [
